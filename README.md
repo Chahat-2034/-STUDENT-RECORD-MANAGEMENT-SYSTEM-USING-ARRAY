@@ -1,0 +1,1 @@
+To understand the use of arrays and structures in C for storing multiple records.  To implement CRUD (Create, Read, Update, Delete) operations without a database.  To design a menu-driven program for interactive user input.  To apply logical programming skills to manage real-world-like student data.  To enhance understanding of string handling
